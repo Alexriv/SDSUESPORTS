@@ -1,4 +1,4 @@
-# SDSUESPORTS
+# SDSU ESPORTS
 
 This project is the result of the hard work and dedication of the following team members:
 1. **Pablo Olivares** - ID: 827386866
